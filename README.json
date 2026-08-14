@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "description": "Please feel free to send me pull requests to add links.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Foundations"
+    },
+    {
+      "description": "By Topic Areas and Year of Publication / Submission",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NeuroJS",
+          "description": "A javascript deep learning and reinforcement learning library. A sample self-driving car implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-10T12:55:04Z",
+            "owner": "janhuenermann",
+            "repo": "neurojs",
+            "stars": 4373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DonkeyCar",
+          "description": "A minimalist and modular self driving library for Python. It is developed for hobbyists and students with a focus on allowing fast experimentation and easy community contributions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T16:08:46Z",
+            "owner": "autorope",
+            "repo": "donkeycar",
+            "stars": 3490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorKart",
+          "description": "self-driving MarioKart with TensorFlow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:12:46Z",
+            "owner": "kevinhughes27",
+            "repo": "TensorKart",
+            "stars": 1575
+          }
+        }
+      ],
+      "title": "Toys"
+    },
+    {
+      "description": "Different media sources where we can find self-driving car related topics, ideas, and much more.",
+      "items": [],
+      "title": "Media"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:01:22.113Z",
+    "original_repository": "manfreddiaz/awesome-autonomous-vehicles",
+    "original_repository_sha": "157237d219c763e7694ad3c0d3e02a383075e7a3",
+    "enhanced_repository": "enhansome/enhansome-autonomous-vehicles",
+    "enhanced_repository_description": null,
+    "title": "Awesome Autonomous Vehicles: with stars"
+  }
+}

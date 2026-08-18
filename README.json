@@ -45,7 +45,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-08T16:08:46Z",
+            "last_commit": "2026-08-17T20:32:57Z",
             "owner": "autorope",
             "repo": "donkeycar",
             "stars": 3491
@@ -75,7 +75,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T01:57:44.304Z",
+    "last_updated": "2026-08-18T01:53:30.607Z",
     "original_repository": "manfreddiaz/awesome-autonomous-vehicles",
     "original_repository_sha": "157237d219c763e7694ad3c0d3e02a383075e7a3",
     "enhanced_repository": "enhansome/enhansome-autonomous-vehicles",

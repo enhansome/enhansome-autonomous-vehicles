@@ -1,27 +1,58 @@
 {
   "items": [
     {
-      "description": "Please feel free to send me pull requests to add links.",
-      "items": [],
-      "title": "Contributing"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Comma.ai Openpilot",
+          "description": "an open source driving agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74627617,
+            "language": "Python",
+            "last_commit": "2026-08-19T05:34:24Z",
+            "owner": "commaai",
+            "repo": "openpilot",
+            "stars": 63449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "argoverse-api",
+          "description": "Development kit for working with the Argoverse 3d Tracking and Forecasting datasets, and for evaluating 3d tracking, 3d detection, and motion forecasting algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187276853,
+            "language": "Python",
+            "last_commit": "2023-12-15T09:55:27Z",
+            "owner": "argoverse",
+            "repo": "argoverse-api",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GTA Robotics SDC Environment",
+          "description": "development environment ready for Udacity Self Driving Car (SDC) Challenges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76124645,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-02-19T08:49:43Z",
+            "owner": "OSSDC",
+            "repo": "self-driving-car-1",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "Open Source Software"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Foundations"
-    },
-    {
-      "description": "By Topic Areas and Year of Publication / Submission",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Hardware"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -30,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68553109,
             "language": "JavaScript",
             "last_commit": "2023-10-10T12:55:04Z",
             "owner": "janhuenermann",
@@ -44,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76095264,
             "language": "Python",
             "last_commit": "2026-08-17T20:32:57Z",
             "owner": "autorope",
             "repo": "donkeycar",
-            "stars": 3492
+            "stars": 3493
           }
         },
         {
@@ -58,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77541444,
             "language": "Python",
             "last_commit": "2026-08-03T17:12:46Z",
             "owner": "kevinhughes27",
@@ -67,16 +101,12 @@
         }
       ],
       "title": "Toys"
-    },
-    {
-      "description": "Different media sources where we can find self-driving car related topics, ideas, and much more.",
-      "items": [],
-      "title": "Media"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:55:25.785Z",
+    "last_updated": "2026-08-19T12:15:46.820Z",
     "original_repository": "manfreddiaz/awesome-autonomous-vehicles",
+    "original_repository_id": 76066550,
     "original_repository_sha": "157237d219c763e7694ad3c0d3e02a383075e7a3",
     "enhanced_repository": "enhansome/enhansome-autonomous-vehicles",
     "enhanced_repository_description": null,

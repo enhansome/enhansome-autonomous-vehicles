@@ -34,7 +34,7 @@
             "last_commit": "2023-10-10T12:55:04Z",
             "owner": "janhuenermann",
             "repo": "neurojs",
-            "stars": 4373
+            "stars": 4372
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2026-08-17T20:32:57Z",
             "owner": "autorope",
             "repo": "donkeycar",
-            "stars": 3491
+            "stars": 3492
           }
         },
         {
@@ -75,7 +75,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T01:53:30.607Z",
+    "last_updated": "2026-08-19T01:55:25.785Z",
     "original_repository": "manfreddiaz/awesome-autonomous-vehicles",
     "original_repository_sha": "157237d219c763e7694ad3c0d3e02a383075e7a3",
     "enhanced_repository": "enhansome/enhansome-autonomous-vehicles",

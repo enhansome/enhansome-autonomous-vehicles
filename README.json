@@ -12,10 +12,10 @@
             "archived": false,
             "id": 74627617,
             "language": "Python",
-            "last_commit": "2026-08-19T05:34:24Z",
+            "last_commit": "2026-08-20T00:34:07Z",
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63449
+            "stars": 63453
           }
         },
         {
@@ -104,7 +104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:46.820Z",
+    "last_updated": "2026-08-20T01:54:32.128Z",
     "original_repository": "manfreddiaz/awesome-autonomous-vehicles",
     "original_repository_id": 76066550,
     "original_repository_sha": "157237d219c763e7694ad3c0d3e02a383075e7a3",

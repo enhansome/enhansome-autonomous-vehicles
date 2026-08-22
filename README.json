@@ -12,10 +12,10 @@
             "archived": false,
             "id": 74627617,
             "language": "Python",
-            "last_commit": "2026-08-20T23:57:11Z",
+            "last_commit": "2026-08-22T01:38:28Z",
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63460
+            "stars": 63467
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 187276853,
             "language": "Python",
-            "last_commit": "2023-12-15T09:55:27Z",
+            "last_commit": "2026-08-22T01:11:24Z",
             "owner": "argoverse",
             "repo": "argoverse-api",
             "stars": 932
@@ -104,7 +104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:00:24.872Z",
+    "last_updated": "2026-08-22T01:53:42.514Z",
     "original_repository": "manfreddiaz/awesome-autonomous-vehicles",
     "original_repository_id": 76066550,
     "original_repository_sha": "157237d219c763e7694ad3c0d3e02a383075e7a3",

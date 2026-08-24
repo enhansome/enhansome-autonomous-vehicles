@@ -12,10 +12,10 @@
             "archived": false,
             "id": 74627617,
             "language": "Python",
-            "last_commit": "2026-08-22T09:10:32Z",
+            "last_commit": "2026-08-23T09:10:33Z",
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63476
+            "stars": 63477
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-22T21:43:25Z",
             "owner": "autorope",
             "repo": "donkeycar",
-            "stars": 3494
+            "stars": 3495
           }
         },
         {
@@ -104,7 +104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:02:02.611Z",
+    "last_updated": "2026-08-24T02:00:23.043Z",
     "original_repository": "manfreddiaz/awesome-autonomous-vehicles",
     "original_repository_id": 76066550,
     "original_repository_sha": "157237d219c763e7694ad3c0d3e02a383075e7a3",

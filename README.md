@@ -24,7 +24,7 @@ Please feel free to send me pull requests to add links.
 
 ### Artificial Intelligence
 
-1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,146 | 🐛 26 | 🌐 Python | 📅 2026-08-24 - A curated list of awesome Machine Learning frameworks, libraries and software. Maintained by Joseph Misiti.Joseph Misiti
+1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,148 | 🐛 26 | 🌐 Python | 📅 2026-08-24 - A curated list of awesome Machine Learning frameworks, libraries and software. Maintained by Joseph Misiti.Joseph Misiti
 
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,547 | 🐛 91 | 🌐 Python | 📅 2022-11-27 - Deep Learning papers reading roadmap constructed from outline to detail, old to state-of-the-art,
   from generic to specific areas focus on state-of-the-art for anyone starting in Deep Learning. Maintained by, Flood Sung.
@@ -351,9 +351,9 @@ By Topic Areas and Year of Publication / Submission
 
 ## Open Source Software
 
-1. [Autoware](https://github.com/CPFL/Autoware) ⭐ 12,007 | 🐛 73 | 🌐 Dockerfile | 📅 2026-08-24 - Integrated open-source software for urban autonomous driving.
+1. [Autoware](https://github.com/CPFL/Autoware) ⭐ 12,008 | 🐛 73 | 🌐 Dockerfile | 📅 2026-08-24 - Integrated open-source software for urban autonomous driving.
 
-* [Comma.ai Openpilot](https://github.com/commaai/openpilot) ⭐ 63,482 | 🐛 132 | 🌐 Python | 📅 2026-08-24 - an open source driving agent.
+* [Comma.ai Openpilot](https://github.com/commaai/openpilot) ⭐ 63,484 | 🐛 132 | 🌐 Python | 📅 2026-08-25 - an open source driving agent.
 * [argoverse-api](https://github.com/argoai/argoverse-api) ⭐ 933 | 🐛 72 | 🌐 Python | 📅 2026-08-22 - Development kit for working with the [Argoverse](https://www.argoverse.org/) 3d Tracking and Forecasting datasets, and for evaluating 3d tracking, 3d detection, and motion forecasting algorithms.
 * [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1) ⭐ 62 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-02-19 - development environment ready for Udacity Self Driving Car (SDC) Challenges.
 * [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/) - Software Infrastructure for Stanford's Autonomous Vehicles.

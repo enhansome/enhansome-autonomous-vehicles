@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T19:57:48Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74146
+                "stars": 74148
               }
             },
             {
@@ -203,7 +203,7 @@
             "last_commit": "2026-08-24T08:19:48Z",
             "owner": "autowarefoundation",
             "repo": "autoware",
-            "stars": 12007
+            "stars": 12008
           }
         },
         {
@@ -215,10 +215,10 @@
             "archived": false,
             "id": 74627617,
             "language": "Python",
-            "last_commit": "2026-08-24T17:23:08Z",
+            "last_commit": "2026-08-25T04:20:25Z",
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63482
+            "stars": 63484
           }
         },
         {
@@ -307,7 +307,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:55:14.860Z",
+    "last_updated": "2026-08-25T05:55:36.113Z",
     "original_repository": "manfreddiaz/awesome-autonomous-vehicles",
     "original_repository_id": 76066550,
     "original_repository_sha": "157237d219c763e7694ad3c0d3e02a383075e7a3",

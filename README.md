@@ -24,9 +24,9 @@ Please feel free to send me pull requests to add links.
 
 ### Artificial Intelligence
 
-1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,141 | 🐛 26 | 🌐 Python | 📅 2026-08-21 - A curated list of awesome Machine Learning frameworks, libraries and software. Maintained by Joseph Misiti.Joseph Misiti
+1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,146 | 🐛 26 | 🌐 Python | 📅 2026-08-24 - A curated list of awesome Machine Learning frameworks, libraries and software. Maintained by Joseph Misiti.Joseph Misiti
 
-* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,549 | 🐛 91 | 🌐 Python | 📅 2022-11-27 - Deep Learning papers reading roadmap constructed from outline to detail, old to state-of-the-art,
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,547 | 🐛 91 | 🌐 Python | 📅 2022-11-27 - Deep Learning papers reading roadmap constructed from outline to detail, old to state-of-the-art,
   from generic to specific areas focus on state-of-the-art for anyone starting in Deep Learning. Maintained by, Flood Sung.
 * [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum) - Deep Learning curriculum  meant to be a starting point for everyone interested in seriously studying the field.
 
@@ -36,7 +36,7 @@ Please feel free to send me pull requests to add links.
 
 ### Computer Vision
 
-1. [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,517 | 🐛 91 | 📅 2024-05-17 - A curated list of awesome computer vision resources, maintained by Jia-Bin Huang
+1. [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,517 | 🐛 92 | 📅 2024-05-17 - A curated list of awesome computer vision resources, maintained by Jia-Bin Huang
 
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision, maintained by Jiwon Kim, Heesoo Myeong, Myungsub Choi, Jung Kwon Lee, Taeksoo Kim
 
@@ -353,8 +353,8 @@ By Topic Areas and Year of Publication / Submission
 
 1. [Autoware](https://github.com/CPFL/Autoware) ⭐ 12,007 | 🐛 73 | 🌐 Dockerfile | 📅 2026-08-24 - Integrated open-source software for urban autonomous driving.
 
-* [Comma.ai Openpilot](https://github.com/commaai/openpilot) ⭐ 63,481 | 🐛 131 | 🌐 Python | 📅 2026-08-24 - an open source driving agent.
-* [argoverse-api](https://github.com/argoai/argoverse-api) ⭐ 932 | 🐛 72 | 🌐 Python | 📅 2026-08-22 - Development kit for working with the [Argoverse](https://www.argoverse.org/) 3d Tracking and Forecasting datasets, and for evaluating 3d tracking, 3d detection, and motion forecasting algorithms.
+* [Comma.ai Openpilot](https://github.com/commaai/openpilot) ⭐ 63,482 | 🐛 132 | 🌐 Python | 📅 2026-08-24 - an open source driving agent.
+* [argoverse-api](https://github.com/argoai/argoverse-api) ⭐ 933 | 🐛 72 | 🌐 Python | 📅 2026-08-22 - Development kit for working with the [Argoverse](https://www.argoverse.org/) 3d Tracking and Forecasting datasets, and for evaluating 3d tracking, 3d detection, and motion forecasting algorithms.
 * [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1) ⭐ 62 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-02-19 - development environment ready for Udacity Self Driving Car (SDC) Challenges.
 * [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/) - Software Infrastructure for Stanford's Autonomous Vehicles.
 * [The OSCC Project](http://oscc.io/) - A by-wire control kit for autonomous vehicle development.
@@ -365,7 +365,7 @@ By Topic Areas and Year of Publication / Submission
 ## Toys
 
 1. [NeuroJS](https://github.com/janhuenermann/neurojs) ⭐ 4,371 | 🐛 6 | 🌐 JavaScript | 📅 2023-10-10 - A javascript deep learning and reinforcement learning library. A sample self-driving car implementation.
-2. [DonkeyCar](https://github.com/autorope/donkeycar) ⭐ 3,496 | 🐛 134 | 🌐 Python | 📅 2026-08-22 - A minimalist and modular self driving library for Python. It is developed for hobbyists and students with a focus on allowing fast experimentation and easy community contributions.
+2. [DonkeyCar](https://github.com/autorope/donkeycar) ⭐ 3,495 | 🐛 134 | 🌐 Python | 📅 2026-08-22 - A minimalist and modular self driving library for Python. It is developed for hobbyists and students with a focus on allowing fast experimentation and easy community contributions.
 3. [TensorKart](https://github.com/kevinhughes27/TensorKart) ⭐ 1,575 | 🐛 13 | 🌐 Python | 📅 2026-08-03 - self-driving MarioKart with TensorFlow.
 
 ## Companies
@@ -429,4 +429,4 @@ United States
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

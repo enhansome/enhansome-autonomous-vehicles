@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T19:57:48Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74148
+                "stars": 74155
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2022-11-27T13:18:32Z",
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39547
+                "stars": 39546
               }
             }
           ],
@@ -54,7 +54,7 @@
                 "last_commit": "2024-09-22T20:24:10Z",
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 6978
+                "stars": 6981
               }
             }
           ],
@@ -91,7 +91,7 @@
                 "last_commit": "2023-08-15T10:52:15Z",
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11186
+                "stars": 11185
               }
             }
           ],
@@ -203,7 +203,7 @@
             "last_commit": "2026-08-24T08:19:48Z",
             "owner": "autowarefoundation",
             "repo": "autoware",
-            "stars": 12008
+            "stars": 12013
           }
         },
         {
@@ -215,10 +215,10 @@
             "archived": false,
             "id": 74627617,
             "language": "Python",
-            "last_commit": "2026-08-25T04:20:25Z",
+            "last_commit": "2026-08-26T01:19:05Z",
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63484
+            "stars": 63497
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2026-08-22T01:11:24Z",
             "owner": "argoverse",
             "repo": "argoverse-api",
-            "stars": 933
+            "stars": 934
           }
         },
         {
@@ -307,7 +307,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:55:36.113Z",
+    "last_updated": "2026-08-26T02:01:23.794Z",
     "original_repository": "manfreddiaz/awesome-autonomous-vehicles",
     "original_repository_id": 76066550,
     "original_repository_sha": "157237d219c763e7694ad3c0d3e02a383075e7a3",

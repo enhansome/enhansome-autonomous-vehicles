@@ -203,7 +203,7 @@
             "last_commit": "2026-08-24T08:19:48Z",
             "owner": "autowarefoundation",
             "repo": "autoware",
-            "stars": 12018
+            "stars": 12017
           }
         },
         {
@@ -307,9 +307,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:56:36.476Z",
-    "original_repository": "manfreddiaz/awesome-autonomous-vehicles",
-    "original_repository_id": 76066550,
+    "last_updated": "2026-08-27T11:24:04.319Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 76066550,
+      "language": null,
+      "last_commit": "2024-03-15T17:19:11Z",
+      "owner": "manfreddiaz",
+      "repo": "awesome-autonomous-vehicles",
+      "stars": 2389
+    },
     "original_repository_sha": "157237d219c763e7694ad3c0d3e02a383075e7a3",
     "enhanced_repository": "enhansome/enhansome-autonomous-vehicles",
     "enhanced_repository_description": null,

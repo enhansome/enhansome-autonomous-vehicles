@@ -351,7 +351,7 @@ By Topic Areas and Year of Publication / Submission
 
 ## Open Source Software
 
-1. [Autoware](https://github.com/CPFL/Autoware) ⭐ 12,018 | 🐛 72 | 🌐 Dockerfile | 📅 2026-08-24 - Integrated open-source software for urban autonomous driving.
+1. [Autoware](https://github.com/CPFL/Autoware) ⭐ 12,017 | 🐛 72 | 🌐 Dockerfile | 📅 2026-08-24 - Integrated open-source software for urban autonomous driving.
 
 * [Comma.ai Openpilot](https://github.com/commaai/openpilot) ⭐ 63,521 | 🐛 135 | 🌐 Python | 📅 2026-08-27 - an open source driving agent.
 * [argoverse-api](https://github.com/argoai/argoverse-api) ⭐ 934 | 🐛 72 | 🌐 Python | 📅 2026-08-22 - Development kit for working with the [Argoverse](https://www.argoverse.org/) 3d Tracking and Forecasting datasets, and for evaluating 3d tracking, 3d detection, and motion forecasting algorithms.

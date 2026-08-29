@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+                "homepage": null,
                 "id": 21872392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:29:10Z",
+                "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74192
+                "stars": 74202,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
             },
@@ -28,12 +33,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+                "homepage": null,
                 "id": 70905478,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-27T13:18:32Z",
+                "open_issues": 91,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39551
+                "stars": 39553,
+                "topics": [
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
             }
@@ -51,12 +63,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of awesome Robotics resources",
+                "homepage": null,
                 "id": 46938122,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-22T20:24:10Z",
+                "open_issues": 38,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 6984
+                "stars": 6986,
+                "topics": [
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
             }
@@ -74,12 +93,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome computer vision resources",
+                "homepage": null,
                 "id": 29357796,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-05-17T14:24:27Z",
+                "open_issues": 92,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23520
+                "stars": 23520,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
             },
@@ -90,12 +114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of deep learning resources for computer vision ",
+                "homepage": null,
                 "id": 35812923,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-15T10:52:15Z",
+                "open_issues": 47,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11186
+                "stars": 11186,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
             }
@@ -119,12 +148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experiment for Life-Long Place Recognition by Shared Representative Appearance Learning (SRAL)",
+                "homepage": null,
                 "id": 63375830,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2017-04-28T23:27:05Z",
+                "open_issues": 0,
                 "owner": "hanfeiid",
                 "repo": "SRAL",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
             }
@@ -142,12 +176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experiment for Life-Long Place Recognition by Shared Representative Appearance Learning (SRAL)",
+                "homepage": null,
                 "id": 63375830,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2017-04-28T23:27:05Z",
+                "open_issues": 0,
                 "owner": "hanfeiid",
                 "repo": "SRAL",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
             }
@@ -169,12 +208,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Udacity open source self-driving car project",
+            "homepage": "https://udacity.com/self-driving-car",
             "id": 69775530,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-25T10:41:52Z",
+            "open_issues": 1,
             "owner": "udacity",
             "repo": "self-driving-car",
-            "stars": 6315
+            "stars": 6315,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:29:56.952Z"
         },
@@ -185,12 +229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TensorFlow implementation of this Nvidia paper: https://arxiv.org/pdf/1604.07316.pdf with some changes",
+            "homepage": null,
             "id": 69761580,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-16T15:15:30Z",
+            "open_issues": 19,
             "owner": "SullyChen",
             "repo": "Autopilot-TensorFlow",
-            "stars": 1276
+            "stars": 1276,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:29:56.952Z"
         }
@@ -207,12 +256,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autoware - the world's leading open-source software project for autonomous driving",
+            "homepage": "https://www.autoware.org/",
             "id": 41331761,
             "language": "Dockerfile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T08:19:48Z",
+            "open_issues": 72,
             "owner": "autowarefoundation",
             "repo": "autoware",
-            "stars": 12028
+            "stars": 12029,
+            "topics": [
+              "autonomous-driving",
+              "autonomous-vehicles",
+              "autoware",
+              "ros",
+              "ros2"
+            ]
           },
           "first_seen": "2026-08-28T11:29:56.952Z"
         },
@@ -223,12 +283,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+            "homepage": "https://comma.ai/openpilot",
             "id": 74627617,
             "language": "Python",
-            "last_commit": "2026-08-28T05:00:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:09:03Z",
+            "open_issues": 130,
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63528
+            "stars": 63527,
+            "topics": [
+              "advanced-driver-assistance-systems",
+              "driver-assistance-systems",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T11:29:56.952Z"
         },
@@ -239,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official GitHub repository for Argoverse dataset",
+            "homepage": "https://www.argoverse.org",
             "id": 187276853,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T01:11:24Z",
+            "open_issues": 72,
             "owner": "argoverse",
             "repo": "argoverse-api",
-            "stars": 934
+            "stars": 934,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:29:56.952Z"
         },
@@ -255,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self Driving Car development tools and technologies from GTA Robotics Community members",
+            "homepage": "https://meetup.com/gta-robotics",
             "id": 76124645,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2017-02-19T08:49:43Z",
+            "open_issues": 0,
             "owner": "OSSDC",
             "repo": "self-driving-car-1",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:29:56.952Z"
         }
@@ -277,12 +356,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript deep learning and reinforcement learning library.",
+            "homepage": "http://janhuenermann.com/projects/learning-to-drive",
             "id": 68553109,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-10T12:55:04Z",
+            "open_issues": 6,
             "owner": "janhuenermann",
             "repo": "neurojs",
-            "stars": 4371
+            "stars": 4371,
+            "topics": [
+              "deep-learning",
+              "javascript",
+              "machine-learning",
+              "neural-network",
+              "reinforcement-learning",
+              "self-driving-car"
+            ]
           },
           "first_seen": "2026-08-28T11:29:56.952Z"
         },
@@ -293,12 +384,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source hardware and software platform to build a small scale self driving car.",
+            "homepage": "http://www.donkeycar.com",
             "id": 76095264,
             "language": "Python",
-            "last_commit": "2026-08-22T21:43:25Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:58:38Z",
+            "open_issues": 134,
             "owner": "autorope",
             "repo": "donkeycar",
-            "stars": 3495
+            "stars": 3495,
+            "topics": [
+              "cv2",
+              "donkeycar",
+              "jetson-nano",
+              "keras",
+              "python",
+              "raspberry-pi",
+              "self-driving-car",
+              "tensorflow",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T11:29:56.952Z"
         },
@@ -309,12 +415,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "self-driving MarioKart with TensorFlow",
+            "homepage": null,
             "id": 77541444,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T17:12:46Z",
+            "open_issues": 13,
             "owner": "kevinhughes27",
             "repo": "TensorKart",
-            "stars": 1575
+            "stars": 1575,
+            "topics": [
+              "machine-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T11:29:56.952Z"
         }
@@ -323,15 +437,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:29:56.952Z",
+    "last_updated": "2026-08-29T04:26:02.225Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",
+      "homepage": "https://manfreddiaz.github.io/awesome-autonomous-vehicles/",
       "id": 76066550,
       "language": null,
+      "license": null,
       "last_commit": "2024-03-15T17:19:11Z",
+      "open_issues": 2,
       "owner": "manfreddiaz",
       "repo": "awesome-autonomous-vehicles",
-      "stars": 2390
+      "stars": 2390,
+      "topics": [
+        "autonomous-cars",
+        "autonomous-vehicles",
+        "car-driving",
+        "computer-vision",
+        "deep-learning"
+      ]
     },
     "original_repository_sha": "157237d219c763e7694ad3c0d3e02a383075e7a3",
     "enhanced_repository": "enhansome/enhansome-autonomous-vehicles",

@@ -21,7 +21,7 @@
                 "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74202,
+                "stars": 74203,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -72,7 +72,7 @@
                 "open_issues": 38,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 6986,
+                "stars": 6988,
                 "topics": [
                   "robotics"
                 ]
@@ -265,7 +265,7 @@
             "open_issues": 72,
             "owner": "autowarefoundation",
             "repo": "autoware",
-            "stars": 12029,
+            "stars": 12030,
             "topics": [
               "autonomous-driving",
               "autonomous-vehicles",
@@ -288,7 +288,7 @@
             "id": 74627617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:09:03Z",
+            "last_commit": "2026-08-29T05:11:52Z",
             "open_issues": 130,
             "owner": "commaai",
             "repo": "openpilot",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:26:02.225Z",
+    "last_updated": "2026-08-29T07:09:51.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",

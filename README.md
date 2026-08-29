@@ -24,7 +24,7 @@ Please feel free to send me pull requests to add links.
 
 ### Artificial Intelligence
 
-1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,202 | 🐛 29 | 🌐 Python | 📅 2026-08-27 - A curated list of awesome Machine Learning frameworks, libraries and software. Maintained by Joseph Misiti.Joseph Misiti
+1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,203 | 🐛 29 | 🌐 Python | 📅 2026-08-27 - A curated list of awesome Machine Learning frameworks, libraries and software. Maintained by Joseph Misiti.Joseph Misiti
 
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,553 | 🐛 91 | 🌐 Python | 📅 2022-11-27 - Deep Learning papers reading roadmap constructed from outline to detail, old to state-of-the-art,
   from generic to specific areas focus on state-of-the-art for anyone starting in Deep Learning. Maintained by, Flood Sung.
@@ -32,7 +32,7 @@ Please feel free to send me pull requests to add links.
 
 ### Robotics
 
-1. [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 6,986 | 🐛 38 | 📅 2024-09-22 - A list of various books, courses and other resources for robotics, maintained by kiloreux.
+1. [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 6,988 | 🐛 38 | 📅 2024-09-22 - A list of various books, courses and other resources for robotics, maintained by kiloreux.
 
 ### Computer Vision
 
@@ -351,7 +351,7 @@ By Topic Areas and Year of Publication / Submission
 
 ## Open Source Software
 
-1. [Autoware](https://github.com/CPFL/Autoware) ⭐ 12,029 | 🐛 72 | 🌐 Dockerfile | 📅 2026-08-24 - Integrated open-source software for urban autonomous driving.
+1. [Autoware](https://github.com/CPFL/Autoware) ⭐ 12,030 | 🐛 72 | 🌐 Dockerfile | 📅 2026-08-24 - Integrated open-source software for urban autonomous driving.
 
 * [Comma.ai Openpilot](https://github.com/commaai/openpilot) ⭐ 63,527 | 🐛 130 | 🌐 Python | 📅 2026-08-29 - an open source driving agent.
 * [argoverse-api](https://github.com/argoai/argoverse-api) ⭐ 934 | 🐛 72 | 🌐 Python | 📅 2026-08-22 - Development kit for working with the [Argoverse](https://www.argoverse.org/) 3d Tracking and Forecasting datasets, and for evaluating 3d tracking, 3d detection, and motion forecasting algorithms.

@@ -1,6 +1,6 @@
 # Awesome Autonomous Vehicles: with stars
 
-A curated list of awesome autonomous vehicles resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,674 | 🐛 85 | 📅 2026-07-13.
+A curated list of awesome autonomous vehicles resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,677 | 🐛 85 | 📅 2026-07-13.
 
 ## Contributing
 
@@ -24,7 +24,7 @@ Please feel free to send me pull requests to add links.
 
 ### Artificial Intelligence
 
-1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,249 | 🐛 29 | 🌐 Python | 📅 2026-09-02 - A curated list of awesome Machine Learning frameworks, libraries and software. Maintained by Joseph Misiti.Joseph Misiti
+1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,259 | 🐛 30 | 🌐 Python | 📅 2026-09-02 - A curated list of awesome Machine Learning frameworks, libraries and software. Maintained by Joseph Misiti.Joseph Misiti
 
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,555 | 🐛 91 | 🌐 Python | 📅 2022-11-27 - Deep Learning papers reading roadmap constructed from outline to detail, old to state-of-the-art,
   from generic to specific areas focus on state-of-the-art for anyone starting in Deep Learning. Maintained by, Flood Sung.
@@ -32,7 +32,7 @@ Please feel free to send me pull requests to add links.
 
 ### Robotics
 
-1. [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 7,006 | 🐛 40 | 📅 2024-09-22 - A list of various books, courses and other resources for robotics, maintained by kiloreux.
+1. [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 7,009 | 🐛 40 | 📅 2024-09-22 - A list of various books, courses and other resources for robotics, maintained by kiloreux.
 
 ### Computer Vision
 
@@ -351,9 +351,9 @@ By Topic Areas and Year of Publication / Submission
 
 ## Open Source Software
 
-1. [Autoware](https://github.com/CPFL/Autoware) ⭐ 12,042 | 🐛 70 | 🌐 Dockerfile | 📅 2026-09-04 - Integrated open-source software for urban autonomous driving.
+1. [Autoware](https://github.com/CPFL/Autoware) ⭐ 12,043 | 🐛 70 | 🌐 Dockerfile | 📅 2026-09-04 - Integrated open-source software for urban autonomous driving.
 
-* [Comma.ai Openpilot](https://github.com/commaai/openpilot) ⭐ 63,567 | 🐛 135 | 🌐 Python | 📅 2026-09-03 - an open source driving agent.
+* [Comma.ai Openpilot](https://github.com/commaai/openpilot) ⭐ 63,575 | 🐛 141 | 🌐 Python | 📅 2026-09-05 - an open source driving agent.
 * [argoverse-api](https://github.com/argoai/argoverse-api) ⭐ 934 | 🐛 72 | 🌐 Python | 📅 2026-08-22 - Development kit for working with the [Argoverse](https://www.argoverse.org/) 3d Tracking and Forecasting datasets, and for evaluating 3d tracking, 3d detection, and motion forecasting algorithms.
 * [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1) ⭐ 62 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-02-19 - development environment ready for Udacity Self Driving Car (SDC) Challenges.
 * [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/) - Software Infrastructure for Stanford's Autonomous Vehicles.
@@ -429,4 +429,4 @@ United States
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

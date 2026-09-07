@@ -21,7 +21,7 @@
                 "open_issues": 30,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74260,
+                "stars": 74272,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -42,7 +42,7 @@
                 "open_issues": 91,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39556,
+                "stars": 39557,
                 "topics": [
                   "deep-learning"
                 ]
@@ -72,7 +72,7 @@
                 "open_issues": 40,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 7013,
+                "stars": 7019,
                 "topics": [
                   "robotics"
                 ]
@@ -102,7 +102,7 @@
                 "open_issues": 92,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23538,
+                "stars": 23542,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -123,7 +123,7 @@
                 "open_issues": 47,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11186,
+                "stars": 11185,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -262,7 +262,7 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T12:42:05Z",
-            "open_issues": 70,
+            "open_issues": 72,
             "owner": "autowarefoundation",
             "repo": "autoware",
             "stars": 12049,
@@ -288,11 +288,11 @@
             "id": 74627617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T04:39:10Z",
+            "last_commit": "2026-09-07T04:20:41Z",
             "open_issues": 141,
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63581,
+            "stars": 63590,
             "topics": [
               "advanced-driver-assistance-systems",
               "driver-assistance-systems",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T04:46:51.599Z",
+    "last_updated": "2026-09-07T04:50:24.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",

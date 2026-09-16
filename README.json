@@ -21,7 +21,7 @@
                 "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74335,
+                "stars": 74343,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -72,7 +72,7 @@
                 "open_issues": 40,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 7095,
+                "stars": 7159,
                 "topics": [
                   "robotics"
                 ]
@@ -123,7 +123,7 @@
                 "open_issues": 47,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11185,
+                "stars": 11186,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -261,11 +261,11 @@
             "id": 41331761,
             "language": "Dockerfile",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T19:17:32Z",
+            "last_commit": "2026-09-16T00:54:55Z",
             "open_issues": 69,
             "owner": "autowarefoundation",
             "repo": "autoware",
-            "stars": 12061,
+            "stars": 12062,
             "topics": [
               "autonomous-driving",
               "autonomous-vehicles",
@@ -288,11 +288,11 @@
             "id": 74627617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-15T04:47:06Z",
-            "open_issues": 135,
+            "last_commit": "2026-09-16T04:51:08Z",
+            "open_issues": 138,
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63652,
+            "stars": 63662,
             "topics": [
               "advanced-driver-assistance-systems",
               "driver-assistance-systems",
@@ -393,7 +393,7 @@
             "open_issues": 137,
             "owner": "autorope",
             "repo": "donkeycar",
-            "stars": 3502,
+            "stars": 3503,
             "topics": [
               "cv2",
               "donkeycar",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T05:00:12.829Z",
+    "last_updated": "2026-09-16T04:55:26.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",

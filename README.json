@@ -17,11 +17,11 @@
                 "id": 21872392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T23:52:52Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-13T00:31:03Z",
+                "open_issues": 25,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74573,
+                "stars": 74576,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -102,7 +102,7 @@
                 "open_issues": 97,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23591,
+                "stars": 23590,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -123,7 +123,7 @@
                 "open_issues": 48,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11188,
+                "stars": 11190,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -217,7 +217,7 @@
             "open_issues": 1,
             "owner": "udacity",
             "repo": "self-driving-car",
-            "stars": 6315,
+            "stars": 6316,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:56.952Z"
@@ -265,7 +265,7 @@
             "open_issues": 74,
             "owner": "autowarefoundation",
             "repo": "autoware",
-            "stars": 12148,
+            "stars": 12152,
             "topics": [
               "autonomous-driving",
               "autonomous-vehicles",
@@ -288,11 +288,11 @@
             "id": 74627617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T03:47:18Z",
-            "open_issues": 133,
+            "last_commit": "2026-10-13T03:49:48Z",
+            "open_issues": 126,
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63874,
+            "stars": 63887,
             "topics": [
               "advanced-driver-assistance-systems",
               "driver-assistance-systems",
@@ -317,7 +317,7 @@
             "open_issues": 72,
             "owner": "argoverse",
             "repo": "argoverse-api",
-            "stars": 935,
+            "stars": 936,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:56.952Z"
@@ -393,7 +393,7 @@
             "open_issues": 139,
             "owner": "autorope",
             "repo": "donkeycar",
-            "stars": 3518,
+            "stars": 3522,
             "topics": [
               "cv2",
               "donkeycar",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T06:06:56.531Z",
+    "last_updated": "2026-10-13T06:51:47.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",
@@ -449,7 +449,7 @@
       "open_issues": 4,
       "owner": "manfreddiaz",
       "repo": "awesome-autonomous-vehicles",
-      "stars": 2397,
+      "stars": 2396,
       "topics": [
         "autonomous-cars",
         "autonomous-vehicles",

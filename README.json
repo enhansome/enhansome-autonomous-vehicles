@@ -21,7 +21,7 @@
                 "open_issues": 25,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74579,
+                "stars": 74584,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -42,7 +42,7 @@
                 "open_issues": 93,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39576,
+                "stars": 39578,
                 "topics": [
                   "deep-learning"
                 ]
@@ -69,10 +69,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2024-09-22T20:24:10Z",
-                "open_issues": 45,
+                "open_issues": 47,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 7236,
+                "stars": 7239,
                 "topics": [
                   "robotics"
                 ]
@@ -99,10 +99,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-05-17T14:24:27Z",
-                "open_issues": 97,
+                "open_issues": 99,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23596,
+                "stars": 23598,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -123,7 +123,7 @@
                 "open_issues": 48,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11190,
+                "stars": 11191,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -261,11 +261,11 @@
             "id": 41331761,
             "language": "Dockerfile",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T00:39:57Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-14T16:07:59Z",
+            "open_issues": 78,
             "owner": "autowarefoundation",
             "repo": "autoware",
-            "stars": 12156,
+            "stars": 12158,
             "topics": [
               "autonomous-driving",
               "autonomous-vehicles",
@@ -288,11 +288,11 @@
             "id": 74627617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T04:42:34Z",
-            "open_issues": 130,
+            "last_commit": "2026-10-15T04:41:44Z",
+            "open_issues": 124,
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63896,
+            "stars": 63907,
             "topics": [
               "advanced-driver-assistance-systems",
               "driver-assistance-systems",
@@ -313,7 +313,7 @@
             "id": 187276853,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-22T01:11:24Z",
+            "last_commit": "2026-10-14T22:34:30Z",
             "open_issues": 72,
             "owner": "argoverse",
             "repo": "argoverse-api",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T05:00:51.045Z",
+    "last_updated": "2026-10-15T04:49:16.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",

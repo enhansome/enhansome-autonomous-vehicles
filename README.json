@@ -17,11 +17,11 @@
                 "id": 21872392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T00:20:11Z",
+                "last_commit": "2026-10-22T18:52:55Z",
                 "open_issues": 23,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74638,
+                "stars": 74645,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -42,7 +42,7 @@
                 "open_issues": 93,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39589,
+                "stars": 39590,
                 "topics": [
                   "deep-learning"
                 ]
@@ -102,7 +102,7 @@
                 "open_issues": 100,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23613,
+                "stars": 23615,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -265,7 +265,7 @@
             "open_issues": 71,
             "owner": "autowarefoundation",
             "repo": "autoware",
-            "stars": 12170,
+            "stars": 12173,
             "topics": [
               "autonomous-driving",
               "autonomous-vehicles",
@@ -288,11 +288,11 @@
             "id": 74627617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T04:54:54Z",
-            "open_issues": 131,
+            "last_commit": "2026-10-23T02:47:27Z",
+            "open_issues": 133,
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63958,
+            "stars": 63976,
             "topics": [
               "advanced-driver-assistance-systems",
               "driver-assistance-systems",
@@ -389,11 +389,11 @@
             "id": 76095264,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T22:02:22Z",
+            "last_commit": "2026-10-22T21:41:22Z",
             "open_issues": 140,
             "owner": "autorope",
             "repo": "donkeycar",
-            "stars": 3528,
+            "stars": 3529,
             "topics": [
               "cv2",
               "donkeycar",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T04:58:27.655Z",
+    "last_updated": "2026-10-23T04:59:50.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",

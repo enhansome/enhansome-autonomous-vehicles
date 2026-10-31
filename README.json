@@ -21,7 +21,7 @@
                 "open_issues": 31,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74691,
+                "stars": 74695,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -72,7 +72,7 @@
                 "open_issues": 48,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 7269,
+                "stars": 7272,
                 "topics": [
                   "robotics"
                 ]
@@ -123,7 +123,7 @@
                 "open_issues": 47,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11190,
+                "stars": 11193,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -217,7 +217,7 @@
             "open_issues": 1,
             "owner": "udacity",
             "repo": "self-driving-car",
-            "stars": 6318,
+            "stars": 6319,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:56.952Z"
@@ -261,7 +261,7 @@
             "id": 41331761,
             "language": "Dockerfile",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T10:10:05Z",
+            "last_commit": "2026-10-31T04:34:13Z",
             "open_issues": 72,
             "owner": "autowarefoundation",
             "repo": "autoware",
@@ -288,11 +288,11 @@
             "id": 74627617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T02:22:23Z",
-            "open_issues": 130,
+            "last_commit": "2026-10-31T05:41:43Z",
+            "open_issues": 134,
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 64015,
+            "stars": 64030,
             "topics": [
               "advanced-driver-assistance-systems",
               "driver-assistance-systems",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T05:57:10.612Z",
+    "last_updated": "2026-10-31T05:53:19.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",
@@ -449,7 +449,7 @@
       "open_issues": 4,
       "owner": "manfreddiaz",
       "repo": "awesome-autonomous-vehicles",
-      "stars": 2396,
+      "stars": 2397,
       "topics": [
         "autonomous-cars",
         "autonomous-vehicles",

@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-01T16:30:10Z",
-                "open_issues": 32,
+                "open_issues": 34,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74753,
+                "stars": 74765,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:56.952Z"
@@ -42,7 +42,7 @@
                 "open_issues": 93,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39602,
+                "stars": 39604,
                 "topics": [
                   "deep-learning"
                 ]
@@ -72,7 +72,7 @@
                 "open_issues": 49,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 7283,
+                "stars": 7285,
                 "topics": [
                   "robotics"
                 ]
@@ -265,7 +265,7 @@
             "open_issues": 74,
             "owner": "autowarefoundation",
             "repo": "autoware",
-            "stars": 12216,
+            "stars": 12220,
             "topics": [
               "autonomous-driving",
               "autonomous-vehicles",
@@ -288,11 +288,11 @@
             "id": 74627617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T06:34:49Z",
-            "open_issues": 136,
+            "last_commit": "2026-11-06T06:39:07Z",
+            "open_issues": 142,
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 64069,
+            "stars": 64077,
             "topics": [
               "advanced-driver-assistance-systems",
               "driver-assistance-systems",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T06:56:55.014Z",
+    "last_updated": "2026-11-06T06:56:45.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",
